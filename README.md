@@ -50,6 +50,7 @@ You can open any of them by clicking on the links below.  If you want to modify 
 
 * [chap01.ipynb](https://colab.research.google.com/github/AllenDowney/ThinkDSP/blob/master/code/chap01.ipynb)
 * [chap01soln.ipynb](https://colab.research.google.com/github/AllenDowney/ThinkDSP/blob/master/code/chap01soln.ipynb)
+* [chap01_my.ipynb](https://colab.research.google.com/github/LeeryLis/ThinkDSP/blob/master/code/chap01_my.ipynb)
 * [chap02.ipynb](https://colab.research.google.com/github/AllenDowney/ThinkDSP/blob/master/code/chap02.ipynb)
 * [chap02soln.ipynb](https://colab.research.google.com/github/AllenDowney/ThinkDSP/blob/master/code/chap02soln.ipynb)
 * [chap03.ipynb](https://colab.research.google.com/github/AllenDowney/ThinkDSP/blob/master/code/chap03.ipynb)
